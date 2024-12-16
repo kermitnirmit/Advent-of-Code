@@ -19,3 +19,6 @@
 [submodule "2016"]
 	path = 2016
 	url = git@github.com:kermitnirmit/Advent-of-Code-2016.git
+[submodule "2018"]
+	path = 2018
+	url = git@github.com:kermitnirmit/Advent-of-Code-2018.git
